@@ -10,6 +10,7 @@ This is a work in progress.
 - [Imageresizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
 - [Inflection](https://github.com/lukeholder/craft-inflect): Plugin for Craft CMS which adds an inflection twig extension.
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink): Easily switch between languages on any page of your website
+- [Many to Many](https://github.com/page-8/craft-manytomany): A Field Type plugin for CraftCMS that allows the management of relationships from both sides
 - [Redactor Inline Styles](https://github.com/carlcs/craft-redactorinlinestyles)
 
 ## Plugins creation
