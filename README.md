@@ -12,5 +12,6 @@ This is a work in progress.
 - [Inflection](https://github.com/lukeholder/craft-inflect): Plugin for Craft CMS which adds an inflection twig extension.
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink): Easily switch between languages on any page of your website
 - [Redactor Inline Styles](https://github.com/carlcs/craft-redactorinlinestyles)
+
 ## Plugins creation
 - [pluginfactory.io](https://pluginfactory.io/): Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get you started.
