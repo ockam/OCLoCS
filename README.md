@@ -13,6 +13,7 @@ This is a work in progress.
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink): Easily switch between languages on any page of your website.
 - [Many to Many](https://github.com/page-8/craft-manytomany): A Field Type plugin for CraftCMS that allows the management of relationships from both sides.
 - [Redactor Inline Styles](https://github.com/carlcs/craft-redactorinlinestyles)
+- [Retcon](https://github.com/mmikkel/RetconHTML-Craft): A collection of Twig filters for rewriting HTML content in Craft CMS.
 
 ## Plugins creation
 - [Business Logic](https://github.com/lindseydiloreto/craft-businesslogic): Business Logic plugin template.
