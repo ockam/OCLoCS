@@ -1,7 +1,7 @@
 # OCLoCS
 Ockam’s Curated List of CraftCMS Stuff
 
-This a collection of plugins and resources that we deeemed useful for our Craft development. Hope it may help others. 
+This a collection of plugins and resources that we deemed useful for our Craft development. Hope it may help others. 
 
 This is a work in progress.
 
