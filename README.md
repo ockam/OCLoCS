@@ -12,6 +12,7 @@ This is a work in progress.
 - [craft-inflect](https://github.com/lukeholder/craft-inflect): Plugin for Craft CMS which adds an inflection twig extension.
 - [craft-languagelink](https://github.com/lindseydiloreto/craft-languagelink): Easily switch between languages on any page of your website.
 - [craft-manytomany](https://github.com/page-8/craft-manytomany): A Field Type plugin for CraftCMS that allows the management of relationships from both sides.
+- [craft-neo](https://github.com/benjamminf/craft-neo): A Matrix-like field type that uses existing fields
 - [craft-redactorinlinestyles](https://github.com/carlcs/craft-redactorinlinestyles)
 - [Craft-TemplateSelect](https://github.com/sjelfull/Craft-TemplateSelect): A fieldtype that allows you to select a template from a dropdown.
 - [ImageResizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
