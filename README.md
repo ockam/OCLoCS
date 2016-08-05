@@ -16,6 +16,7 @@ This is a work in progress.
 - [craft-neo](https://github.com/benjamminf/craft-neo): A Matrix-like field type that uses existing fields
 - [craft-redactorinlinestyles](https://github.com/carlcs/craft-redactorinlinestyles)
 - [Craft-TemplateSelect](https://github.com/sjelfull/Craft-TemplateSelect): A fieldtype that allows you to select a template from a dropdown.
+- [ExpandedSingles](https://github.com/engram-design/ExpandedSingles): Craft CMS plugin to list Singles in the sidebar when editing Entries.
 - [ImageResizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
 - [Pimp-My-Matrix](https://github.com/supercool/Pimp-My-Matrix): Pimp My Matrix provides additional control for displaying blocks and fields within a Matrix field.
 - [RetconHTML-Craft](https://github.com/mmikkel/RetconHTML-Craft): A collection of Twig filters for rewriting HTML content in Craft CMS.
