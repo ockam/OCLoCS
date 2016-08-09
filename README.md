@@ -20,6 +20,7 @@ This is a work in progress.
 - [FieldManager](https://github.com/engram-design/FieldManager): Field Manager is a Craft CMS plugin to make it easy to manage your fields and field groups.
 - [ImageResizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
 - [Pimp-My-Matrix](https://github.com/supercool/Pimp-My-Matrix): Pimp My Matrix provides additional control for displaying blocks and fields within a Matrix field.
+- [Reasons-Craft](https://github.com/mmikkel/Reasons-Craft/): Add conditionals to your field layouts
 - [RetconHTML-Craft](https://github.com/mmikkel/RetconHTML-Craft): A collection of Twig filters for rewriting HTML content in Craft CMS.
 - [SuperTable](https://github.com/engram-design/SuperTable): Super Table is a Craft CMS field type to allow you to create powerful tables.
 
