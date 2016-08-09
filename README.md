@@ -25,3 +25,6 @@ This is a work in progress.
 ## Plugins creation
 - [craft-businesslogic](https://github.com/lindseydiloreto/craft-businesslogic): Business Logic plugin template.
 - [pluginfactory.io](https://pluginfactory.io/): Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get you started.
+
+## Other’s favorites
+- [David Hellmann](https://medium.com/webdevs/craft-cms-plugins-our-favorites-and-more-a05e8d5b31e2#.pczqjrpu7)
