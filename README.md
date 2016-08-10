@@ -16,6 +16,7 @@ This is a work in progress.
 - [craft-neo](https://github.com/benjamminf/craft-neo): A Matrix-like field type that uses existing fields
 - [craft-redactorinlinestyles](https://github.com/carlcs/craft-redactorinlinestyles)
 - [Craft-TemplateSelect](https://github.com/sjelfull/Craft-TemplateSelect): A fieldtype that allows you to select a template from a dropdown.
+- [craftcms-thearchitect](https://github.com/Pennebaker/craftcms-thearchitect): CraftCMS plugin to generate content models from JSON data.
 - [ExpandedSingles](https://github.com/engram-design/ExpandedSingles): Craft CMS plugin to list Singles in the sidebar when editing Entries.
 - [FieldManager](https://github.com/engram-design/FieldManager): Field Manager is a Craft CMS plugin to make it easy to manage your fields and field groups.
 - [ImageResizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
