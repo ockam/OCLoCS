@@ -24,6 +24,7 @@ This is a work in progress.
 - [Reasons-Craft](https://github.com/mmikkel/Reasons-Craft/): Add conditionals to your field layouts
 - [RetconHTML-Craft](https://github.com/mmikkel/RetconHTML-Craft): A collection of Twig filters for rewriting HTML content in Craft CMS.
 - [seomatic](https://github.com/nystudio107/seomatic): A turnkey SEO implementation for Craft CMS that is comprehensive, powerful, and flexible
+- [Sprout Fields](http://sprout.barrelstrengthdesign.com/craft-plugins/fields): Field Pack for Craft CMS and Sprout Forms
 - [SuperTable](https://github.com/engram-design/SuperTable): Super Table is a Craft CMS field type to allow you to create powerful tables.
 
 ## Plugins creation
