@@ -23,6 +23,7 @@ This is a work in progress.
 - [Pimp-My-Matrix](https://github.com/supercool/Pimp-My-Matrix): Pimp My Matrix provides additional control for displaying blocks and fields within a Matrix field.
 - [Reasons-Craft](https://github.com/mmikkel/Reasons-Craft/): Add conditionals to your field layouts
 - [RetconHTML-Craft](https://github.com/mmikkel/RetconHTML-Craft): A collection of Twig filters for rewriting HTML content in Craft CMS.
+- [select2](https://github.com/madebyshape/select2): Select2 is a Craft CMS fieldtype that uses the popular jQuery plugin - Select2
 - [seomatic](https://github.com/nystudio107/seomatic): A turnkey SEO implementation for Craft CMS that is comprehensive, powerful, and flexible
 - [Sprout Fields](http://sprout.barrelstrengthdesign.com/craft-plugins/fields): Field Pack for Craft CMS and Sprout Forms
 - [SuperTable](https://github.com/engram-design/SuperTable): Super Table is a Craft CMS field type to allow you to create powerful tables.
