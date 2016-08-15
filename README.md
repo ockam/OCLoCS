@@ -35,3 +35,7 @@ This is a work in progress.
 ## Other plugins sources
 - [David Hellmann](https://medium.com/webdevs/craft-cms-plugins-our-favorites-and-more-a05e8d5b31e2#.pczqjrpu7)
 - [PutYourLightsOn](https://www.putyourlightson.net/)
+
+## Boilerplates
+-[craft-boilerplate](https://github.com/venveo/craft-boilerplate)
+- [Kickoff Installer](https://github.com/clubstudioltd/kickoff-installer)
