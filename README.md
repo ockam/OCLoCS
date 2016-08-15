@@ -37,5 +37,8 @@ This is a work in progress.
 - [PutYourLightsOn](https://www.putyourlightson.net/)
 
 ## Boilerplates
--[craft-boilerplate](https://github.com/venveo/craft-boilerplate)
+- [craft-boilerplate](https://github.com/venveo/craft-boilerplate)
 - [Kickoff Installer](https://github.com/clubstudioltd/kickoff-installer)
+
+## Documentation & Tutorials
+- [An introduction to Craft](https://github.com/jeromecoupe/iad_craftcms_introduction/blob/master/craft_introduction_en.md)
