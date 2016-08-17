@@ -15,6 +15,7 @@ This is a work in progress.
 - [craft-manytomany](https://github.com/page-8/craft-manytomany): A Field Type plugin for CraftCMS that allows the management of relationships from both sides.
 - [craft-neo](https://github.com/benjamminf/craft-neo): A Matrix-like field type that uses existing fields
 - [craft-redactorinlinestyles](https://github.com/carlcs/craft-redactorinlinestyles)
+- [Craft Redactor Image Position](https://github.com/nicholasodo/craft-redactorimageposition): Craft plugin that adds position field to Redactor image edit modal.
 - [Craft-TemplateSelect](https://github.com/sjelfull/Craft-TemplateSelect): A fieldtype that allows you to select a template from a dropdown.
 - [craftcms-thearchitect](https://github.com/Pennebaker/craftcms-thearchitect): CraftCMS plugin to generate content models from JSON data.
 - [ExpandedSingles](https://github.com/engram-design/ExpandedSingles): Craft CMS plugin to list Singles in the sidebar when editing Entries.
