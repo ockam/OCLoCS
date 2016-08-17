@@ -22,6 +22,7 @@ This is a work in progress.
 - [ImageResizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
 - [Pimp-My-Matrix](https://github.com/supercool/Pimp-My-Matrix): Pimp My Matrix provides additional control for displaying blocks and fields within a Matrix field.
 - [Reasons-Craft](https://github.com/mmikkel/Reasons-Craft/): Add conditionals to your field layouts
+- [Redactor-Extras](https://github.com/elliotlewis/Redactor-Extras): Extra plugins for Redactor
 - [RetconHTML-Craft](https://github.com/mmikkel/RetconHTML-Craft): A collection of Twig filters for rewriting HTML content in Craft CMS.
 - [select2](https://github.com/madebyshape/select2): Select2 is a Craft CMS fieldtype that uses the popular jQuery plugin - Select2
 - [seomatic](https://github.com/nystudio107/seomatic): A turnkey SEO implementation for Craft CMS that is comprehensive, powerful, and flexible
