@@ -35,14 +35,14 @@ This is a work in progress.
 - [craft-businesslogic](https://github.com/lindseydiloreto/craft-businesslogic): Business Logic plugin template.
 - [pluginfactory.io](https://pluginfactory.io/): Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get you started.
 
+## Boilerplates
+- [craft-boilerplate](https://github.com/venveo/craft-boilerplate)
+- [Kickoff Installer](https://github.com/clubstudioltd/kickoff-installer)
+
 ## Other plugins lists/sources
 - [straightupcraft plugins](https://straightupcraft.com/craft-plugins): Straight Up Craft has the most comprehensive list of free and commercial Craft CMS plugins.
 - [David Hellmann](https://medium.com/webdevs/craft-cms-plugins-our-favorites-and-more-a05e8d5b31e2#.pczqjrpu7)
 - [PutYourLightsOn](https://www.putyourlightson.net/)
-
-## Boilerplates
-- [craft-boilerplate](https://github.com/venveo/craft-boilerplate)
-- [Kickoff Installer](https://github.com/clubstudioltd/kickoff-installer)
 
 ## Documentation & Tutorials
 - [An introduction to Craft](https://github.com/jeromecoupe/iad_craftcms_introduction/blob/master/craft_introduction_en.md)
