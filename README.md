@@ -20,6 +20,7 @@ This is a work in progress.
 - [craftcms-thearchitect](https://github.com/Pennebaker/craftcms-thearchitect): CraftCMS plugin to generate content models from JSON data.
 - [ExpandedSingles](https://github.com/engram-design/ExpandedSingles): Craft CMS plugin to list Singles in the sidebar when editing Entries.
 - [FieldManager](https://github.com/engram-design/FieldManager): Field Manager is a Craft CMS plugin to make it easy to manage your fields and field groups.
+- [FruitLinkIt](https://github.com/fruitstudios/LinkIt): Multi-purpose link plugin for Craft CMS
 - [ImageResizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
 - [Pimp-My-Matrix](https://github.com/supercool/Pimp-My-Matrix): Pimp My Matrix provides additional control for displaying blocks and fields within a Matrix field.
 - [Reasons-Craft](https://github.com/mmikkel/Reasons-Craft/): Add conditionals to your field layouts
