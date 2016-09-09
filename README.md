@@ -43,6 +43,7 @@ This is a work in progress.
 - [straightupcraft plugins](https://straightupcraft.com/craft-plugins): Straight Up Craft has the most comprehensive list of free and commercial Craft CMS plugins.
 - [David Hellmann](https://medium.com/webdevs/craft-cms-plugins-our-favorites-and-more-a05e8d5b31e2#.pczqjrpu7)
 - [PutYourLightsOn](https://www.putyourlightson.net/)
+- [Dukt](https://dukt.net/)
 
 ## Documentation & Tutorials
 - [An introduction to Craft](https://github.com/jeromecoupe/iad_craftcms_introduction/blob/master/craft_introduction_en.md)
