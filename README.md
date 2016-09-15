@@ -23,6 +23,7 @@ This is a work in progress.
 - [FruitLinkIt](https://github.com/fruitstudios/LinkIt): Multi-purpose link plugin for Craft CMS
 - [ImageResizer](https://github.com/engram-design/ImageResizer): A Craft CMS plugin to resize images on upload.
 - [Pimp-My-Matrix](https://github.com/supercool/Pimp-My-Matrix): Pimp My Matrix provides additional control for displaying blocks and fields within a Matrix field.
+- [Printmaker](https://printmaker.docs.topshelfcraft.com/): Generate a PDF from any template, URL, or HTML code
 - [Reasons-Craft](https://github.com/mmikkel/Reasons-Craft/): Add conditionals to your field layouts
 - [Redactor-Extras](https://github.com/elliotlewis/Redactor-Extras): Extra plugins for Redactor
 - [Rest](https://dukt.net/craft/rest): Consume RESTful web services from your templates and get authenticated to popular APIs
