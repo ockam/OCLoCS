@@ -11,7 +11,7 @@ This is a work in progress.
 - [CpSortableCustomColumns-Craft](https://github.com/mmikkel/CpSortableCustomColumns-Craft): Adds custom fields to sortable attributes in element indexes
 - [craft-asset-rev](https://github.com/clubstudioltd/craft-asset-rev): CraftCMS plugin to aid cache-busting
 - [craft-inflect](https://github.com/lukeholder/craft-inflect): Plugin for Craft CMS which adds an inflection twig extension.
-- [craft-inspector](https://github.com/amacneil/craft-inspector): A helpful inspector plugin for Craft CMS
+- [craft-kint](https://github.com/mildlygeeky/craft_kint): Adds Kint, an in-app PHP debugger, to Craft CMS for use in Twig and PHP.
 - [craft-languagelink](https://github.com/lindseydiloreto/craft-languagelink): Easily switch between languages on any page of your website.
 - [craft-manytomany](https://github.com/page-8/craft-manytomany): A Field Type plugin for CraftCMS that allows the management of relationships from both sides.
 - [craft-neo](https://github.com/benjamminf/craft-neo): A Matrix-like field type that uses existing fields
