@@ -13,6 +13,7 @@ This is a work in progress.
 - [craft-inflect](https://github.com/lukeholder/craft-inflect): Plugin for Craft CMS which adds an inflection twig extension.
 - [craft-kint](https://github.com/mildlygeeky/craft_kint): Adds Kint, an in-app PHP debugger, to Craft CMS for use in Twig and PHP.
 - [craft-languagelink](https://github.com/lindseydiloreto/craft-languagelink): Easily switch between languages on any page of your website.
+- [craft-lj-dynamicfields](https://github.com/lewisjenkins/craft-lj-dynamicfields): Simple plugin for populating Craft fields with dynamic data
 - [craft-manytomany](https://github.com/page-8/craft-manytomany): A Field Type plugin for CraftCMS that allows the management of relationships from both sides.
 - [craft-neo](https://github.com/benjamminf/craft-neo): A Matrix-like field type that uses existing fields
 - [craft-redactorinlinestyles](https://github.com/carlcs/craft-redactorinlinestyles)
