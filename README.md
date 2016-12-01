@@ -35,6 +35,7 @@ This is a work in progress.
 - [seomatic](https://github.com/nystudio107/seomatic): A turnkey SEO implementation for Craft CMS that is comprehensive, powerful, and flexible
 - [Sprout Fields](http://sprout.barrelstrengthdesign.com/craft-plugins/fields): Field Pack for Craft CMS and Sprout Forms
 - [SuperTable](https://github.com/engram-design/SuperTable): Super Table is a Craft CMS field type to allow you to create powerful tables.
+- [Twig Perversion](https://github.com/marionnewlevant/craft-twig_perversion): Making twig do things it really shouldn't. Break, continue, and return tags
 
 ## Plugins creation
 - [craft-businesslogic](https://github.com/lindseydiloreto/craft-businesslogic): Business Logic plugin template.
@@ -50,6 +51,7 @@ This is a work in progress.
 - [PutYourLightsOn](https://www.putyourlightson.net/)
 - [Dukt](https://dukt.net/)
 - [awesome-craft](https://github.com/pbeck/awesome-craft)
+- [Craft Plus](https://craftpl.us/plugins)
 
 ## Documentation & Tutorials
 - [An introduction to Craft](https://github.com/jeromecoupe/iad_craftcms_introduction/blob/master/craft_introduction_en.md)
