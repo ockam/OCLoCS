@@ -53,6 +53,7 @@ This is a work in progress.
 - [Dukt](https://dukt.net/)
 - [awesome-craft](https://github.com/pbeck/awesome-craft)
 - [Craft Plus](https://craftpl.us/plugins)
+- [awesome-vue](https://github.com/surveyjs/awesome-vue)
 
 ## Documentation & Tutorials
 - [An introduction to Craft](https://github.com/jeromecoupe/iad_craftcms_introduction/blob/master/craft_introduction_en.md)
