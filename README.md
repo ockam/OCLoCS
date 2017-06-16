@@ -6,6 +6,7 @@ This a collection of plugins and resources that we deemed useful for our Craft d
 This is a work in progress.
 
 ## Plugins
+- [beam](https://superbig.co/plugins/beam): Generate CSV and XLS files in your templates 
 - [button-box](http://plugins.supercooldesign.co.uk/plugin/button-box): A treasure trove of shiny buttons for you to make use of.
 - [Control Panel Body Classes](https://github.com/lindseydiloreto/craft-cpbodyclasses): Add special classes to the CP's &lt;body&gt; tag.
 - [CpFieldLinks-Craft](https://github.com/mmikkel/CpFieldLinks-Craft): CP Field Links is a tiny utility plugin making content modelling a little bit easier in Craft.
